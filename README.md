@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimaDEN21
 - 👀 I’m interested in coding and AI 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord accname dimaden
 
 <!---
